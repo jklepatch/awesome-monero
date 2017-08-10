@@ -117,6 +117,6 @@ A curated list of awesome resources for the Monero crypto-currency
 - Others
     - [ZeroCoin](http://zerocoin.org)
     - [Zcash](https://z.cash)
-    - [Dash](https://www.dash.org)
+    - [Boolberry](http://boolberry.org)
     - [MimbleWimble](https://github.com/ignopeverell/grin)
 
