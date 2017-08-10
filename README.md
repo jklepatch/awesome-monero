@@ -19,7 +19,6 @@ A curated list of awesome resources for the Monero crypto-currency
 ## Official Websites
 - [Getmonero.org](https://getmonero.org) - The official Monero website
 - [Lab.getmonero.org](https://lab.getmonero.org) - The official research group of Monero
-- [Moneroblocks.info](http://moneroblocks.info) - Monero block explorer
 - [Github Repos](https://github.com/monero-project)
     - Daemon: [https://github.com/monero-project/monero](https://github.com/monero-project/monero) 
     - GUI: [https://github.com/monero-project/monero-core](https://github.com/monero-project)
@@ -76,6 +75,12 @@ A curated list of awesome resources for the Monero crypto-currency
     - [XmrMiner](https://github.com/xmrMiner/xmrMiner) - GPU Miner. Uses `Cuda`
     - [Wolf-xmr-miner](https://github.com/OhGodAPet/wolf-xmr-miner) - GPU Miner. Uses `OpenCL`
     - [Cpuminer-multi](https://github.com/OhGodAPet/cpuminer-multi) - CPU Miner
+
+- Block Explorers
+    - [Moneroblocks.info](http://moneroblocks.info)
+    - [Chainradar.com](https://chainradar.com/xmr/blocks)
+    - [Moneroexplorer.com](https://moneroexplorer.com)
+    - [Monerobase.com](https://monerobase.com)
 
 ## Buying Monero
 - With cash
