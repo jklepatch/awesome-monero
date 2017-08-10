@@ -37,13 +37,13 @@ A curated list of awesome resources for the Monero crypto-currency
 - [Stack Exchange](https://monero.stackexchange.com)
 - [Bitcointalk Thread](https://bitcointalk.org/index.php?topic=583449.0)
 - [Slack](https://monero.slack.com) - Slack channels (mirrors of IRC channels)
-- IRC chAnnels: 
-    - [#monero](irc://chat.freenode.net/#monero)
-    - [#monero-community](irc://chat.freenode.net/#monero-community)
-    - [#monero-dev](irc://chat.freenode.net/#monero-dev)
-    - [#monero-markets](irc://chat.freenode.net/#monero-markets)
-    - [#monero-pools](irc://chat.freenode.net/#monero-pools)
-    - [#monero-otc](irc://chat.freenode.net/#monero-orc):
+- IRC channels: 
+    - #monero (irc://chat.freenode.net/#monero)
+    - #monero-community (irc://chat.freenode.net/#monero-community)
+    - #monero-dev (irc://chat.freenode.net/#monero-dev)
+    - #monero-markets  (irc://chat.freenode.net/#monero-markets)
+    - #monero-pools (irc://chat.freenode.net/#monero-pools)
+    - #monero-otc (irc://chat.freenode.net/#monero-orc)
 - [Telegram Group](https://telegram.me/bitmonero)
 - [Facebook](https://www.facebook.com/monerocurrency)
 - [Twitter](https://twitter.com/monerocurrency)
