@@ -51,10 +51,9 @@ A curated list of awesome resources for the Monero crypto-currency
 ## Wallets
 - [Official GUI]()
 - [Mymonero.com](https://mymonero.com) - Web wallet of fluffypony, core dev of Monero
-
-* Warning * fluffypony (core dev of Monero) is suspicious of those 2 wallets. Do your own research. [Link](https://monero.stackexchange.com/questions/897/does-monero-have-any-mobile-wallets-available)
-- [Android Wallet By Freewallet](https://play.google.com/store/apps/details?id=xmr.org.freewallet.app&hl=en)
-- [IOS Wallet By Freewallet](https://itunes.apple.com/us/app/monero-wallet-by-freewallet/id1126426159?mt=8)
+- *Warning: fluffypony (core dev of Monero) is suspicious ([Link](https://monero.stackexchange.com/questions/897/does-monero-have-any-mobile-wallets-available) of those 2 wallets. Do your own research.* 
+    - [Android Wallet By Freewallet](https://play.google.com/store/apps/details?id=xmr.org.freewallet.app&hl=en)
+    - [IOS Wallet By Freewallet](https://itunes.apple.com/us/app/monero-wallet-by-freewallet/id1126426159?mt=8)
 
 ## Mining
 - Mining Pools
